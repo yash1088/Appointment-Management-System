@@ -1,0 +1,460 @@
+04-02-2022 16:15:52 : MTL : List Appointment Availability
+04-02-2022 16:16:19 : MTL : Add Appointment : Dental-MTLE040222-10 Appointment added.
+04-02-2022 16:16:55 : MTL : Add Appointment : Dental-MTLE040222-1 Appointment already present.
+04-02-2022 16:17:09 : MTL : List Appointment Availability
+04-02-2022 23:18:01 : MTL : List Appointment Availability
+04-02-2022 23:21:00 : MTL : Add Appointment : Dental-MTLA040222-10 Appointment added.
+04-02-2022 23:21:27 : MTL : Add Appointment : Dental-MTLA040222-10 Appointment already present.
+05-02-2022 00:52:22 : MTL : remove appointment : MTLE020222 : Dental : Appointment deleted, tranfered appointments to new schedule.
+05-02-2022 00:54:55 : MTL : remove appointment : MTLE020222 : Dental : Appointment deleted.
+05-02-2022 00:55:58 : MTL : remove appointment : MTLE020222 : Dental : No Appointment is available05-02-2022 11:17:29 : MTL : remove appointment : MTLE020222 : Dental : Appointment deleted, tranfered appointments to new schedule.
+05-02-2022 11:18:09 : MTL : List Appointment Availability
+05-02-2022 11:19:15 : MTL : remove appointment : MTLE020222 : Dental : Appointment deleted, tranfered appointments to new schedule.
+05-02-2022 11:19:48 : MTL : List Appointment Availability
+05-02-2022 11:26:37 : MTL : remove appointment : MTLE020222 : Dental : Appointment deleted, tranfered appointments to new schedule.
+05-02-2022 11:39:19 : MTL : remove appointment : MTLE020222 : Dental : Appointment deleted, tranfered appointments to new schedule.
+05-02-2022 11:40:27 : MTL : remove appointment : MTLE020222 : Dental : No Appointment is available.
+05-02-2022 11:40:51 : MTL : remove appointment : MTLE020222 : Dental : Appointment deleted.
+06-02-2022 14:18:59 : MTL : List Appointment Availability
+06-02-2022 14:28:59 : MTL : List Appointment Availability
+06-02-2022 14:46:26 : MTL : List Appointment Availability
+06-02-2022 15:18:31 : MTL : List Appointment Availability
+06-02-2022 15:36:01 : MTL : List Appointment Availability
+06-02-2022 15:49:44 : MTL : List Appointment Availability
+06-02-2022 15:52:45 : MTL : List Appointment Availability
+06-02-2022 16:00:14 : MTL : List Appointment Availability
+06-02-2022 16:12:48 : MTL : List Appointment Availability
+06-02-2022 16:19:41 : MTL : List Appointment Availability
+06-02-2022 16:21:11 : MTL : List Appointment Availability
+06-02-2022 16:25:08 : MTL : List Appointment Availability
+06-02-2022 16:35:10 : MTL : List Appointment Availability
+06-02-2022 16:36:19 : MTL : List Appointment Availability
+06-02-2022 16:38:19 : MTL : List Appointment Availability
+06-02-2022 16:39:34 : MTL : List Appointment Availability
+06-02-2022 16:40:58 : MTL : List Appointment Availability
+06-02-2022 16:41:58 : MTL : List Appointment Availability
+06-02-2022 18:51:35 : MTL : List Appointment Availability
+06-02-2022 18:52:30 : MTL : List Appointment Availability
+06-02-2022 19:19:03 : MTL : List Appointment Availability
+06-02-2022 19:21:20 : MTL : List Appointment Availability
+06-02-2022 19:23:38 : MTL : List Appointment Availability
+06-02-2022 19:38:08 : MTL : List Appointment Availability
+06-02-2022 20:30:13 : MTL : List Appointment Availability
+06-02-2022 20:33:19 : MTL : List Appointment Availability
+07-02-2022 01:15:27 : MTL : List Appointment Availability
+07-02-2022 01:17:12 : MTL : List Appointment Availability
+07-02-2022 01:19:20 : MTL : List Appointment Availability
+07-02-2022 01:20:39 : MTL : List Appointment Availability
+07-02-2022 01:21:25 : MTL : List Appointment Availability
+07-02-2022 01:23:12 : MTL : List Appointment Availability
+07-02-2022 01:24:41 : MTL : List Appointment Availability
+07-02-2022 01:27:41 : MTL : List Appointment Availability
+07-02-2022 01:46:14 : MTL : List Appointment Availability
+07-02-2022 01:49:25 : MTL : List Appointment Availability
+07-02-2022 01:51:02 : MTL : List Appointment Availability
+07-02-2022 01:53:58 : MTL : List Appointment Availability
+07-02-2022 01:57:14 : MTL : List Appointment Availability
+07-02-2022 02:00:41 : MTL : List Appointment Availability
+07-02-2022 02:07:09 : MTL : List Appointment Availability
+07-02-2022 02:18:31 : MTL : List Appointment Availability
+07-02-2022 02:20:06 : MTL : List Appointment Availability
+07-02-2022 02:23:41 : MTL : List Appointment Availability
+07-02-2022 02:27:20 : MTL : List Appointment Availability
+07-02-2022 02:29:46 : QUE : List Appointment Availability
+07-02-2022 02:31:36 : SHE : List Appointment Availability
+07-02-2022 13:53:07 : MTL : List Appointment Availability
+07-02-2022 13:55:10 : MTL : Add Appointment : Physician-MTLE070222-10 Appointment added.
+07-02-2022 13:56:47 : MTL : remove appointment : MTLE020222 : Dental : No Appointment is available.
+07-02-2022 13:58:29 : MTL : List Appointment Availability
+07-02-2022 14:10:06 : MTL : List Appointment Availability
+07-02-2022 14:21:38 : MTL : List Appointment Availability
+07-02-2022 14:23:33 : MTL : Add Appointment : Physician-MTLE080222-10 Appointment added.
+07-02-2022 14:23:45 : MTL : remove appointment : MTLE020222 : Dental : No Appointment is available.
+07-02-2022 14:23:56 : MTL : List Appointment Availability
+07-02-2022 14:28:00 : MTL : List Appointment Availability
+07-02-2022 16:03:14 : MTL : Add Appointment : Physician-MTLE070222-1007-02-2022 16:04:58 : MTL : Add Appointment : Physician-MTLE020222-10 Appointment already present.
+07-02-2022 16:05:14 : MTL : List Appointment Availability
+07-02-2022 16:26:07 : MTL : List Appointment Availability
+07-02-2022 16:27:22 : MTL : remove appointment : MTLE020222 : Dental : No Appointment is available.
+07-02-2022 16:27:30 : MTL : List Appointment Availability
+07-02-2022 16:36:56 : MTL : Get Appointment schedule : patient-MTLP1234: Not Found
+07-02-2022 16:41:45 : MTL : List Appointment Availability
+07-02-2022 16:43:19 : MTL : List Appointment Availability
+07-02-2022 16:55:32 : MTL : List Appointment Availability
+07-02-2022 17:08:31 : MTL : List Appointment Availability
+07-02-2022 17:10:27 : MTL : List Appointment Availability
+07-02-2022 17:15:36 : MTL : List Appointment Availability
+07-02-2022 17:17:06 : MTL : List Appointment Availability
+07-02-2022 17:19:28 : MTL : List Appointment Availability
+07-02-2022 17:20:19 : MTL : List Appointment Availability
+07-02-2022 17:30:52 : MTL : List Appointment Availability
+07-02-2022 17:31:41 : MTL : List Appointment Availability
+07-02-2022 17:38:20 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 17:46:00 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 17:51:00 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 17:53:30 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 17:54:35 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 18:01:26 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 18:03:46 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 19:20:43 : MTL : Add Appointment : Surgen-MTLE080222-10Invalid appointmentID!!!
+07-02-2022 19:22:00 : MTL : Add Appointment : Surgen-MTLE081011-10Invalid appointmentID!!!
+07-02-2022 19:22:57 : MTL : Add Appointment : Surgen-MTLE080222-10 Appointment already present.
+07-02-2022 19:26:08 : MTL : List Appointment Availability
+07-02-2022 23:27:24 : MTL : List Appointment Availability
+07-02-2022 23:28:23 : MTL : List Appointment Availability
+07-02-2022 23:30:04 : MTL : List Appointment Availability
+07-02-2022 23:30:15 : QUE : List Appointment Availability
+07-02-2022 23:31:37 : MTL : List Appointment Availability
+07-02-2022 23:31:48 : QUE : List Appointment Availability
+07-02-2022 23:32:01 : SHE : List Appointment Availability
+07-02-2022 23:33:26 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 23:34:37 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 23:35:09 : MTL : Get Appointment schedule : patient-MTLP0733: Found
+07-02-2022 23:37:15 : MTL : List Appointment Availability
+07-02-2022 23:38:45 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 23:38:58 : MTL : List Appointment Availability
+07-02-2022 23:41:25 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 23:42:05 : MTL : List Appointment Availability
+07-02-2022 23:46:25 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 23:46:55 : MTL : List Appointment Availability
+07-02-2022 23:54:39 : MTL : Get Appointment schedule : patient-MTLP1234: Found
+07-02-2022 23:55:14 : MTL : List Appointment Availability
+07-02-2022 23:58:20 : MTL : Add Appointment : Dental-MTLM080322-10 Appointment added.
+07-02-2022 23:58:31 : MTL : List Appointment Availability
+07-02-2022 23:59:01 : MTL : Add Appointment : Dental-QUEM080322-15Invalid appointmentID!!!
+08-02-2022 15:24:01 : List Available Appointment : Physician : success : data found
+08-02-2022 15:55:54 : List Available Appointment : Physician : success : data found
+08-02-2022 15:56:25 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP123408-02-2022 16:00:44 : List Available Appointment : Physician : success : data found
+08-02-2022 16:02:13 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 16:35:12 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 16:49:42 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 16:55:54 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 17:00:59 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 17:16:34 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 17:18:05 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 17:19:26 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 17:20:41 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 17:51:12 : Get Appointment Schedule : MTLP0733 : success : Appointment found for the patient MTLP0733
+08-02-2022 17:59:26 : Get Appointment Schedule : MTLP0733 : success : Appointment found for the patient MTLP0733
+08-02-2022 18:01:14 : Get Appointment Schedule : MTLP0733 : success : Appointment found for the patient MTLP0733
+08-02-2022 22:21:20 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 22:24:26 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 23:27:48 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 23:28:39 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+08-02-2022 23:31:02 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 00:27:30 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 00:29:46 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 00:33:16 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 00:33:27 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 00:34:37 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 00:39:43 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 00:42:32 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 00:51:11 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 00:51:16 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 01:10:14 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 01:10:58 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 01:13:19 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 01:15:09 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 01:21:07 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 01:25:20 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 01:25:28 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 01:25:36 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 01:25:58 : Cancel Appointment : MTLA030222 - MTLP1234 : success : Appointment canceled.
+09-02-2022 01:26:06 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 10:17:00 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 10:19:00 : List Available Appointment : Physician : success : data found
+09-02-2022 10:25:30 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 10:27:20 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 10:30:13 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 10:30:20 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 10:44:31 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 10:44:49 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 10:45:11 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 11:46:39 : Sending UDP request to 7778 : gets:MTLP1234 : success : 
+09-02-2022 11:46:39 : Sending UDP request to 7779 : gets:MTLP1234 : success : 
+09-02-2022 11:46:41 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 11:46:41 : Sending UDP request to 7779 : book:Physician-SHEA100222-MTLP1234 : success : 
+09-02-2022 11:46:41 : Book Appointment : Physician-SHEA100222-MTLP1234 : success : Appointment booked for Physician for 10/02
+09-02-2022 11:47:07 : Sending UDP request to 7778 : gets:MTLP1234 : success : 
+09-02-2022 11:47:07 : Sending UDP request to 7779 : gets:MTLP1234 : success : 
+09-02-2022 11:47:09 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 11:47:22 : Sending UDP request to 7779 : gets:MTLP1234 : success : 
+09-02-2022 11:47:22 : Sending UDP request to 7778 : gets:MTLP1234 : success : 
+09-02-2022 11:47:24 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 11:47:24 : Book Appointment : Physician-SHEA100222-MTLP1234 : failed : You have already booked appointment with this type and appointmentID!!
+09-02-2022 13:24:59 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEA020222
+09-02-2022 13:24:59 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+09-02-2022 13:25:01 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+09-02-2022 13:25:01 : Sending UDP request to 7779 : book:Physician-SHEA100222-MTLP1234 : success : Appointment booked for Physician for 10/02
+09-02-2022 13:25:01 : Book Appointment : Physician-SHEA100222-MTLP1234 : success : Appointment booked for Physician for 10/02
+09-02-2022 13:50:24 : Sending UDP request to 7778 : list:Physician : success : QUEM020222 : 1
+09-02-2022 13:50:24 : Sending UDP request to 7779 : list:Physician : success : SHEM020222 : 1
+SHEA100222 : 8
+09-02-2022 13:50:27 : List Available Appointment : Physician : success : data found
+10-02-2022 02:11:03 : Sending UDP request to 7778 : gets:MTLP1234 : success : 
+10-02-2022 02:11:05 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+10-02-2022 02:16:10 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+10-02-2022 02:16:12 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+10-02-2022 02:18:44 : Sending UDP request to 7778 : gets:MTLP1234 : success : 
+10-02-2022 02:18:46 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+10-02-2022 02:18:46 : Book Appointment : Physician-MTLA030222-MTLP1234 : success : Appointment booked for Physician for 03/02
+10-02-2022 02:22:12 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+10-02-2022 02:22:12 : Sending UDP request to 7778 : gets:MTLP1234 : success : 
+10-02-2022 02:22:14 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+10-02-2022 02:22:14 : Book Appointment : Physician-MTLA030222-MTLP1234 : failed : You have already booked appointment with this type and appointmentID!!
+10-02-2022 02:22:57 : Sending UDP request to 7779 : gets:MTLP0733 : success : 
+10-02-2022 02:22:57 : Sending UDP request to 7778 : gets:MTLP0733 : success : 
+10-02-2022 02:22:59 : Get Appointment Schedule : MTLP0733 : success : Appointment found for the patient MTLP0733
+10-02-2022 02:26:16 : Sending UDP request to 7778 : gets:MTLP1234 : success : 
+10-02-2022 02:26:16 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+10-02-2022 02:26:18 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+10-02-2022 02:26:18 : Book Appointment : Physician-QUEE020222-MTLP1234 : failed : You have already booked appointment for Physician  for 02/02
+10-02-2022 02:28:33 : Sending UDP request to 7778 : gets:MTLP1234 : success : 
+10-02-2022 02:28:33 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+10-02-2022 02:28:35 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+10-02-2022 02:28:35 : Sending UDP request to 7778 : book:Dental-QUEA020222-MTLP1234 : success : No Appointment available for this Type and with this appointmentID!!!
+10-02-2022 02:28:35 : Book Appointment : Dental-QUEA020222-MTLP1234 : failed : No Appointment available for this Type and with this appointmentID!!!
+10-02-2022 02:28:52 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+10-02-2022 02:28:52 : Sending UDP request to 7778 : gets:MTLP1234 : success : 
+10-02-2022 02:28:54 : Get Appointment Schedule : MTLP1234 : success : Appointment found for the patient MTLP1234
+10-02-2022 02:28:54 : Sending UDP request to 7778 : book:Dental-QUEE020222-MTLP1234 : success : Appointment booked for Dental for 02/02
+10-02-2022 02:28:54 : Book Appointment : Dental-QUEE020222-MTLP1234 : success : Appointment booked for Dental for 02/02
+10-02-2022 14:04:56 : Add Appointment : Physician-MTLE030222-15 : success : Appointment added for Physician
+10-02-2022 14:06:22 : Add Appointment : Physician-MTLE030222-15 : failed : Appointment is already present with the appointmentID!!!
+10-02-2022 14:06:42 : Add Appointment : Physician-MTLE030222-20 : failed : Appointment is already present with the appointmentID!!!
+10-02-2022 14:07:08 : Sending UDP request to 7778 : list:Physician : success : QUEM020222 : 1
+10-02-2022 14:07:08 : Sending UDP request to 7779 : list:Physician : success : SHEM020222 : 1
+SHEA100222 : 9
+10-02-2022 14:07:10 : List Available Appointment : Physician : success : data found
+10-02-2022 14:08:20 : Remove Appointment : Physician-MTLE030222 : success : Appointment deleted.
+10-02-2022 14:38:54 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+10-02-2022 14:38:56 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+10-02-2022 14:39:12 : Sending UDP request to 7778 : list:Physician : success : QUEM020222 : 1
+10-02-2022 14:39:12 : Sending UDP request to 7779 : list:Physician : success : SHEM020222 : 1
+SHEA100222 : 9
+10-02-2022 14:39:14 : LIST AVAILABLE APPOINTMENT : Physician : success : data found
+10-02-2022 14:40:13 : Sending UDP request to 7779 : list:Dental : success : SHEE020222 : 1
+10-02-2022 14:40:13 : Sending UDP request to 7778 : list:Dental : success : QUEE020222 : 1
+10-02-2022 14:40:15 : LIST AVAILABLE APPOINTMENT : Dental : success : data found
+11-02-2022 20:23:15 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+11-02-2022 20:23:17 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 20:23:17 : Sending UDP request to 7779 : book:Physician-SHEM020222-MTLP1234 : success : Appointment booked for Physician for 02/02
+11-02-2022 20:23:17 : BOOK APPOINTMENT : Physician-SHEM020222-MTLP1234 : success : Appointment booked for Physician for 02/02
+11-02-2022 20:23:48 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+Physician : SHEM020222
+11-02-2022 20:23:50 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 20:28:03 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+Physician : SHEM020222
+11-02-2022 20:28:03 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222
+Physician : QUEA020222
+11-02-2022 20:28:05 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 20:28:05 : BOOK APPOINTMENT : Physician-SHEA020222-MTLP1234 : failed : You have already booked appointment for Physician  for 02/02
+11-02-2022 20:33:21 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222
+Physician : QUEA020222
+11-02-2022 20:33:21 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+11-02-2022 20:33:23 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 20:39:57 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+11-02-2022 20:39:57 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222
+Physician : QUEA020222
+11-02-2022 20:39:59 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 20:45:23 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222
+Physician : QUEA020222
+11-02-2022 20:45:23 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222
+11-02-2022 20:45:25 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 20:47:29 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222,Physician : QUEA020222,
+11-02-2022 20:47:29 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222,
+11-02-2022 20:47:31 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 20:48:27 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222,
+11-02-2022 20:48:27 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222,Physician : QUEA020222,
+11-02-2022 20:48:29 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 20:48:29 : BOOK APPOINTMENT : Physician-SHEM020222-MTLP1234 : failed : You have already booked appointment for Physician  for 02/02
+11-02-2022 20:52:12 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222,Physician : QUEA020222,
+11-02-2022 20:52:12 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222,
+11-02-2022 20:52:14 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 20:53:09 : ADD APPOINTMENT : Physician-MTLM250222-15 : success : Appointment added for Physician
+11-02-2022 20:53:29 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222,Physician : QUEA020222,
+11-02-2022 20:53:29 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222,
+11-02-2022 20:53:31 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 20:53:31 : BOOK APPOINTMENT : Physician-MTLM250222-MTLP1234 : success : Appointment booked for Physician for 25/02
+11-02-2022 21:01:14 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222,Physician : QUEA020222,
+11-02-2022 21:01:14 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222,
+11-02-2022 21:01:16 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 21:02:17 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222
+Physician : QUEA020222
+11-02-2022 21:02:19 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 21:03:44 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222
+Physician : QUEA020222
+11-02-2022 21:03:46 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 21:16:25 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222,Physician : QUEA020222,
+11-02-2022 21:16:25 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222,
+11-02-2022 21:16:27 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 21:17:15 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222,Physician : QUEA020222,
+11-02-2022 21:17:15 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222,
+11-02-2022 21:17:17 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 21:17:17 : BOOK APPOINTMENT : Physician-SHEM020222-MTLP1234 : failed : You have already booked appointment for Physician  for 02/02
+11-02-2022 21:19:37 : ADD APPOINTMENT : Physician-MTLM250222-15 : success : Appointment added for Physician
+11-02-2022 21:24:49 : ADD APPOINTMENT : Physician-MTLE250222-15 : success : Appointment added for Physician
+11-02-2022 21:26:20 : Sending UDP request to 7778 : list:Physician : success : QUEM020222 : 1
+11-02-2022 21:26:22 : LIST AVAILABLE APPOINTMENT : Physician : success : data found
+11-02-2022 21:32:14 : ADD APPOINTMENT : Physician-MTLE250222-15 : success : Appointment added for Physician
+11-02-2022 21:32:25 : Sending UDP request to 7778 : list:Physician : success : QUEM020222 : 1
+11-02-2022 21:32:25 : Sending UDP request to 7779 : list:Physician : success : SHEM020222 : 1
+SHEA100222 : 9
+11-02-2022 21:32:27 : LIST AVAILABLE APPOINTMENT : Physician : success : data found
+11-02-2022 21:35:55 : ADD APPOINTMENT : Physician-MTLE250222-15 : success : Appointment added for Physician
+11-02-2022 21:36:51 : Sending UDP request to 7778 : list:Physician : success : QUEM020222 : 1
+11-02-2022 21:36:51 : Sending UDP request to 7779 : list:Physician : success : SHEM020222 : 1
+SHEA100222 : 9
+11-02-2022 21:36:53 : LIST AVAILABLE APPOINTMENT : Physician : success : data found
+11-02-2022 21:40:16 : Sending UDP request to 7778 : list:Physician : success : QUEM020222 : 1,
+11-02-2022 21:40:16 : Sending UDP request to 7779 : list:Physician : success : SHEM020222 : 1,SHEA100222 : 9,
+11-02-2022 21:40:18 : LIST AVAILABLE APPOINTMENT : Physician : success : data found
+11-02-2022 21:51:26 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222,
+11-02-2022 21:51:26 : Sending UDP request to 7778 : gets:MTLP1234 : success : Physician : QUEM020222,Physician : QUEA020222,
+11-02-2022 21:51:28 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+11-02-2022 21:51:53 : CANCEL APPOINTMENT : MTLM020222 - MTLP1234 : success : Appointment canceled.
+11-02-2022 21:51:59 : Sending UDP request to 7779 : gets:MTLP1234 : success : Physician : SHEA020222,
+11-02-2022 21:52:01 : GET APPOINTMENT SCHEDULE : MTLP1234 : success : Appointment found for the patient MTLP1234
+14-02-2022 12:08:13 : Sending UDP request to 7778 : gets:MTLP4567 : success : 
+14-02-2022 12:08:13 : Sending UDP request to 7779 : gets:MTLP4567 : success : 
+14-02-2022 12:08:15 : GET APPOINTMENT SCHEDULE : MTLP4567 : success : Appointment found for the patient MTLP4567
+14-02-2022 12:08:15 : BOOK APPOINTMENT : Physician-MTLM020222-MTLP4567 : success : Appointment booked for Physician for 02/02
+14-02-2022 12:09:03 : Sending UDP request to 7778 : gets:MTLP4567 : success : 
+14-02-2022 12:09:03 : Sending UDP request to 7779 : gets:MTLP4567 : success : 
+14-02-2022 12:09:05 : GET APPOINTMENT SCHEDULE : MTLP4567 : success : Appointment found for the patient MTLP4567
+14-02-2022 12:09:34 : Sending UDP request to 7779 : gets:MTLP4456 : success : 
+14-02-2022 12:09:34 : Sending UDP request to 7778 : gets:MTLP4456 : success : 
+14-02-2022 12:09:36 : GET APPOINTMENT SCHEDULE : MTLP4456 : failed : No Appointment found for the patient MTLP4456
+14-02-2022 12:09:36 : BOOK APPOINTMENT : Physician-MTLM020222-MTLP4456 : failed : No more slots available for this Appointment!!!
+14-02-2022 12:09:55 : Sending UDP request to 7779 : gets:MTLP4466 : success : 
+14-02-2022 12:09:57 : GET APPOINTMENT SCHEDULE : MTLP4466 : failed : No Appointment found for the patient MTLP4466
+14-02-2022 12:09:57 : BOOK APPOINTMENT : Physician-MTLA030222-MTLP4466 : success : Appointment booked for Physician for 03/02
+14-02-2022 12:10:13 : GET APPOINTMENT SCHEDULE : MTLP4466 : success : Appointment found for the patient MTLP4466
+14-02-2022 12:11:58 : Sending UDP request to 7779 : gets:MTLP3345 : success : 
+14-02-2022 12:11:58 : Sending UDP request to 7778 : gets:MTLP3345 : success : 
+14-02-2022 12:12:00 : GET APPOINTMENT SCHEDULE : MTLP3345 : failed : No Appointment found for the patient MTLP3345
+06-04-2022 17:26:04 : ADD APPOINTMENT : [ CONFERENCES-MTLM190120-10 ] : success : Appointment added for CONFERENCES
+06-04-2022 17:32:49 : ADD APPOINTMENT : [ CONFERENCES-MTLM190120-10 ] : success : Appointment added for CONFERENCES
+06-04-2022 17:38:10 : ADD APPOINTMENT : [ CONFERENCES-MTLM190120-10 ] : success : Appointment added for CONFERENCES
+06-04-2022 17:46:24 : ADD APPOINTMENT : [ CONFERENCES-MTLM190120-10 ] : success : Appointment added for CONFERENCES
+08-04-2022 18:35:14 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-0 ] : success : Appointment added for PHYSICIAN
+08-04-2022 18:50:50 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-0 ] : success : Appointment added for PHYSICIAN
+08-04-2022 18:53:26 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-0 ] : success : Appointment added for PHYSICIAN
+08-04-2022 18:56:00 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-0 ] : success : Appointment added for PHYSICIAN
+08-04-2022 18:57:36 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-0 ] : success : Appointment added for PHYSICIAN
+08-04-2022 18:59:16 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 19:20:12 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 19:22:39 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-0 ] : success : Appointment added for PHYSICIAN
+08-04-2022 19:26:48 : ADD APPOINTMENT : [ PHYSICIAN-MTLM300100-0 ] : success : Appointment added for PHYSICIAN
+08-04-2022 19:28:35 : ADD APPOINTMENT : [ PHYSICIAN-MTLM222222-0 ] : success : Appointment added for PHYSICIAN
+08-04-2022 19:35:30 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 19:38:06 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 19:44:26 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 19:48:07 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 19:50:55 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 19:53:38 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:18:03 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:21:12 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:22:58 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:24:30 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:25:30 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:28:04 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:30:30 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:39:52 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:41:21 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:43:06 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:45:35 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:46:28 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:53:58 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 20:54:48 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:05:51 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:06:36 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:07:17 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:08:18 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:11:13 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:12:44 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:15:40 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:19:57 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:23:10 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:24:32 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:26:19 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:29:25 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:30:25 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 21:51:25 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 22:26:12 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+08-04-2022 23:50:05 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 15:04:35 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 15:09:26 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 15:10:04 : Request sent to UDP:7779 : [ list:PHYSICIAN ] : waiting... : ---
+10-04-2022 15:10:04 : Request sent to UDP:7778 : [ list:PHYSICIAN ] : waiting... : ---
+10-04-2022 15:10:04 : Response received from UDP:7779 : [ list:PHYSICIAN ] : success : 
+10-04-2022 15:10:04 : Response received from UDP:7778 : [ list:PHYSICIAN ] : success : 
+10-04-2022 15:10:04 : LIST AVAILABLE APPOINTMENT : [ PHYSICIAN ] : success : data found [MTLM101010 : 10,]
+10-04-2022 15:12:25 : REMOVE APPOINTMENT : [ PHYSICIAN-MTLM101010 ] : success : Appointment deleted.
+10-04-2022 15:14:10 : Request sent to UDP:7778 : [ gets:MTLA1234 ] : waiting... : ---
+10-04-2022 15:14:10 : Request sent to UDP:7779 : [ gets:MTLA1234 ] : waiting... : ---
+10-04-2022 15:14:10 : Response received from UDP:7778 : [ gets:MTLA1234 ] : success : 
+10-04-2022 15:14:10 : Response received from UDP:7779 : [ gets:MTLA1234 ] : success : 
+10-04-2022 15:14:10 : GET APPOINTMENT SCHEDULE : [ MTLA1234 ] : failed : No Appointment found for the patient MTLA1234
+10-04-2022 15:41:16 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 15:54:39 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 15:55:34 : Request sent to UDP:7778 : [ list:PHYSICIAN ] : waiting... : ---
+10-04-2022 15:55:34 : Response received from UDP:7778 : [ list:PHYSICIAN ] : success : 
+10-04-2022 15:55:34 : Request sent to UDP:7779 : [ list:PHYSICIAN ] : waiting... : ---
+10-04-2022 15:55:34 : Response received from UDP:7779 : [ list:PHYSICIAN ] : success : 
+10-04-2022 15:55:34 : LIST AVAILABLE APPOINTMENT : [ PHYSICIAN ] : success : data found [MTLM101010 : 10,]
+10-04-2022 16:03:51 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 16:04:08 : Request sent to UDP:7778 : [ list:PHYSICIAN ] : waiting... : ---
+10-04-2022 16:04:08 : Request sent to UDP:7779 : [ list:PHYSICIAN ] : waiting... : ---
+10-04-2022 16:04:08 : Response received from UDP:7779 : [ list:PHYSICIAN ] : success : 
+10-04-2022 16:04:08 : Response received from UDP:7778 : [ list:PHYSICIAN ] : success : 
+10-04-2022 16:04:08 : LIST AVAILABLE APPOINTMENT : [ PHYSICIAN ] : success : data found [MTLM101010 : 10,]
+10-04-2022 16:05:19 : REMOVE APPOINTMENT : [ PHYSICIAN-MTLM1234 ] : failed : No Appointment is available.
+10-04-2022 16:06:42 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 16:10:49 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 16:23:08 : ADD APPOINTMENT : [ PHYSICIAN-MTLM101010-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 17:11:22 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 17:21:38 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 17:23:02 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 17:23:04 : REMOVE APPOINTMENT : [ PHYSICIAN-MTLM050822 ] : success : Appointment deleted.
+10-04-2022 17:26:46 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 17:26:48 : REMOVE APPOINTMENT : [ PHYSICIAN-MTLM050822 ] : success : Appointment deleted.
+10-04-2022 17:28:12 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 17:28:14 : REMOVE APPOINTMENT : [ PHYSICIAN-MTLM050822 ] : success : Appointment deleted.
+10-04-2022 17:28:14 : Request sent to UDP:7778 : [ list:PHYSICIAN ] : waiting... : ---
+10-04-2022 17:28:14 : Request sent to UDP:7779 : [ list:PHYSICIAN ] : waiting... : ---
+10-04-2022 17:28:14 : Response received from UDP:7778 : [ list:PHYSICIAN ] : success : 
+10-04-2022 17:28:14 : Response received from UDP:7779 : [ list:PHYSICIAN ] : success : 
+10-04-2022 17:28:14 : LIST AVAILABLE APPOINTMENT : [ PHYSICIAN ] : success : No result Found!!
+10-04-2022 17:28:16 : Request sent to UDP:7778 : [ gets:MTLP1234 ] : waiting... : ---
+10-04-2022 17:28:16 : Response received from UDP:7778 : [ gets:MTLP1234 ] : success : Physician : QUEM020222,Physician : QUEA020222,
+10-04-2022 17:28:16 : Request sent to UDP:7779 : [ gets:MTLP1234 ] : waiting... : ---
+10-04-2022 17:28:16 : Response received from UDP:7779 : [ gets:MTLP1234 ] : success : Physician : SHEA020222,
+10-04-2022 17:28:16 : GET APPOINTMENT SCHEDULE : [ MTLP1234 ] : success : Appointment found for the patient MTLP1234 [Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222,Physician : SHEA020222,]
+10-04-2022 17:28:16 : BOOK APPOINTMENT : [ PHYSICIAN-MTLM050822-MTLP1234 ] : failed : No Appointment available for this Type and with this appointmentID!!!
+10-04-2022 17:28:18 : CANCEL APPOINTMENT : [ MTLM050822 - MTLP1234 ] : failed : Appointment not found
+10-04-2022 17:28:18 : Request sent to UDP:7779 : [ gets:MTLP1234 ] : waiting... : ---
+10-04-2022 17:28:18 : Response received from UDP:7779 : [ gets:MTLP1234 ] : success : Physician : SHEA020222,
+10-04-2022 17:28:18 : Request sent to UDP:7778 : [ gets:MTLP1234 ] : waiting... : ---
+10-04-2022 17:28:18 : Response received from UDP:7778 : [ gets:MTLP1234 ] : success : Physician : QUEM020222,Physician : QUEA020222,
+10-04-2022 17:28:18 : GET APPOINTMENT SCHEDULE : [ MTLP1234 ] : success : Appointment found for the patient MTLP1234 [Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222,Physician : SHEA020222,]
+10-04-2022 17:28:18 : CANCEL APPOINTMENT : [ MTLM050822 - MTLP1234 ] : failed : Appointment not found
+10-04-2022 17:28:18 : SWAP APPOINTMENT : [ MTLP1234 OLD:{MTLM050822,PHYSICIAN}, NEW:{MTLA060822,PHYSICIAN} ] : failed : Appointment not found!!!
+10-04-2022 17:42:02 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 17:52:07 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 17:55:18 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 18:05:02 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 18:09:07 : Request sent to UDP:7779 : [ gets:MTLP1234 ] : waiting... : ---
+10-04-2022 18:09:07 : Request sent to UDP:7778 : [ gets:MTLP1234 ] : waiting... : ---
+10-04-2022 18:09:07 : Response received from UDP:7779 : [ gets:MTLP1234 ] : success : Physician : SHEA020222,
+10-04-2022 18:09:07 : Response received from UDP:7778 : [ gets:MTLP1234 ] : success : Physician : QUEM020222,Physician : QUEA020222,
+10-04-2022 18:09:07 : GET APPOINTMENT SCHEDULE : [ MTLP1234 ] : success : Appointment found for the patient MTLP1234 [Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222,Physician : SHEA020222,]
+10-04-2022 18:09:25 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN
+10-04-2022 18:09:26 : REMOVE APPOINTMENT : [ PHYSICIAN-MTLM050822 ] : success : Appointment deleted.
+10-04-2022 18:09:26 : Request sent to UDP:7779 : [ gets:MTLP1234 ] : waiting... : ---
+10-04-2022 18:09:26 : Response received from UDP:7779 : [ gets:MTLP1234 ] : success : Physician : SHEA020222,
+10-04-2022 18:09:26 : Request sent to UDP:7778 : [ gets:MTLP1234 ] : waiting... : ---
+10-04-2022 18:09:26 : Response received from UDP:7778 : [ gets:MTLP1234 ] : success : Physician : QUEM020222,Physician : QUEA020222,
+10-04-2022 18:09:26 : GET APPOINTMENT SCHEDULE : [ MTLP1234 ] : success : Appointment found for the patient MTLP1234 [Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222,Physician : SHEA020222,]
+10-04-2022 18:09:26 : BOOK APPOINTMENT : [ PHYSICIAN-MTLM050822-MTLP1234 ] : failed : No Appointment available for this Type and with this appointmentID!!!
+10-04-2022 18:10:23 : ADD APPOINTMENT : [ PHYSICIAN-MTLM050822-10 ] : success : Appointment added for PHYSICIAN

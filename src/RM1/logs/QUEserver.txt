@@ -1,0 +1,42 @@
+04-02-2022 10:29:13 QUE : Cancel Appointment : patient-QUEP1234 : appointment-QUEE020222 : Success
+10-02-2022 14:13:45 : Sending UDP request to 7780 : gets:QUEP1234 : success : 
+10-02-2022 14:13:47 : Get Appointment Schedule : QUEP1234 : success : Appointment found for the patient QUEP1234
+10-02-2022 14:13:47 : Sending UDP request to 7779 : book:Physician-SHEA100222-QUEP1234 : success : Appointment booked for Physician for 10/02
+10-02-2022 14:13:47 : Book Appointment : Physician-SHEA100222-QUEP1234 : success : Appointment booked for Physician for 10/02
+11-02-2022 20:53:51 : Sending UDP request to 7779 : gets:QUEP1234 : success : 
+11-02-2022 20:53:53 : GET APPOINTMENT SCHEDULE : QUEP1234 : success : Appointment found for the patient QUEP1234
+11-02-2022 21:20:14 : Sending UDP request to 7779 : gets:QUEP1234 : success : 
+11-02-2022 21:20:14 : Sending UDP request to 7780 : gets:QUEP1234 : success : 
+11-02-2022 21:20:16 : GET APPOINTMENT SCHEDULE : QUEP1234 : success : Appointment found for the patient QUEP1234
+11-02-2022 21:25:16 : Sending UDP request to 7780 : gets:QUEP1234 : success : 
+11-02-2022 21:25:16 : Sending UDP request to 7779 : gets:QUEP1234 : success : 
+11-02-2022 21:25:18 : GET APPOINTMENT SCHEDULE : QUEP1234 : success : Appointment found for the patient QUEP1234
+11-02-2022 21:25:18 : Sending UDP request to 7780 : book:Physician-MTLE250222-QUEP1234 : success : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:25:18 : BOOK APPOINTMENT : Physician-MTLE250222-QUEP1234 : failed : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:30:41 : Sending UDP request to 7779 : gets:QUEP1234 : success : 
+11-02-2022 21:30:41 : Sending UDP request to 7780 : gets:QUEP1234 : success : 
+11-02-2022 21:30:43 : GET APPOINTMENT SCHEDULE : QUEP1234 : success : Appointment found for the patient QUEP1234
+11-02-2022 21:30:43 : Sending UDP request to 7780 : book:Physician-MTLE250222-QUEP1234 : success : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:30:43 : BOOK APPOINTMENT : Physician-MTLE250222-QUEP1234 : failed : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:31:09 : Sending UDP request to 7780 : gets:QUEP1234 : success : 
+11-02-2022 21:31:09 : Sending UDP request to 7779 : gets:QUEP1234 : success : 
+11-02-2022 21:31:11 : GET APPOINTMENT SCHEDULE : QUEP1234 : success : Appointment found for the patient QUEP1234
+11-02-2022 21:31:11 : Sending UDP request to 7780 : book:Physician-MTLE250222-QUEP1234 : success : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:31:11 : BOOK APPOINTMENT : Physician-MTLE250222-QUEP1234 : failed : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:32:56 : Sending UDP request to 7779 : gets:QUEP1234 : success : 
+11-02-2022 21:32:56 : Sending UDP request to 7780 : gets:QUEP1234 : success : 
+11-02-2022 21:32:58 : GET APPOINTMENT SCHEDULE : QUEP1234 : success : Appointment found for the patient QUEP1234
+11-02-2022 21:32:58 : Sending UDP request to 7780 : book:Physician-MTLE250222-QUEP1234 : success : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:32:58 : BOOK APPOINTMENT : Physician-MTLE250222-QUEP1234 : failed : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:36:17 : Sending UDP request to 7780 : gets:QUEP1234 : success : 
+11-02-2022 21:36:17 : Sending UDP request to 7779 : gets:QUEP1234 : success : 
+11-02-2022 21:36:19 : GET APPOINTMENT SCHEDULE : QUEP1234 : success : Appointment found for the patient QUEP1234
+11-02-2022 21:36:19 : Sending UDP request to 7780 : book:Physician-MTLE250222-QUEP1234 : success : Appointment booked for Physician for 25/02
+11-02-2022 21:36:19 : BOOK APPOINTMENT : Physician-MTLE250222-QUEP1234 : success : Appointment booked for Physician for 25/02
+11-02-2022 21:37:06 : Sending UDP request to 7780 : list:Physician : success : MTLE250222 : 14
+MTLA030222 : 9
+MTLM020222 : 1
+MTLE040222 : 10
+11-02-2022 21:37:06 : Sending UDP request to 7779 : list:Physician : success : SHEM020222 : 1
+SHEA100222 : 9
+11-02-2022 21:37:08 : LIST AVAILABLE APPOINTMENT : Physician : success : data found

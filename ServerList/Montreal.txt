@@ -1,0 +1,393 @@
+You are connected to Distributed Appointment Management System
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(App id)PHYSICIAN(App type)
+Request done
+
+ CancelAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)MTLM050822(cancel id)PHYSICIAN(App Type)
+You can`t cancel appointment because there is no appointmnet found for this type
+
+ SwapAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(P_id)MTLM050822(Old App id)PHYSICIAN MTLA060822 PHYSICIAN
+
+List appointment has been called by mtl admin for the type PHYSICIAN
+
+ patientappointmentschedule called 2022/04/10 17:41:34
+ Parameter for this method is  MTLP1234(Patient id)
+
+addappointment called by admin on2022/04/10 17:41:34
+Parameter for this method is  P(Appointment type)MTLM050822(Appointment id)10(Capicity)
+appointment is added
+
+ removeAppointment called 2022/04/10 17:41:34
+ Parameter for this method is  MTLM050822(A

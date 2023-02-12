@@ -1,0 +1,43 @@
+module SendData
+{
+  interface SendData_interface
+  	{
+		 string sayHello();
+              oneway void shutdown();
+
+              //string login_credentials(string str);
+
+              boolean authenticate(in string client_userName, in string client_password);
+
+              //MTL Admin
+              string printMsg(in string msg);
+
+              //Appointment Creation
+              string add_appointment(in string options_appointment_type_admin, in string final_appointmentID_admin, in long slot_numbers,in string admin_Id);
+
+              //List of Appointment
+              string list_appointment_availability(in string appointment_type,in string admin_Id);
+
+               //Book appointment
+              string book_appointment(in string patient_Id, in string appointmentID, in string appointmentType);
+
+               //Get Scheduled Appointment
+               string get_appointment_schedule(in string patient_Id);
+
+               //Get Cancel Appointment
+               string cancel_appointment(in string patient_Id, in string appointmentID, in string appointmentType);
+
+                //Get Remove Appointment
+               string remove_appointment(in string appointmentID, in string appointmentType, in string patientID);
+
+         //Swap Appointment
+             string swap_appointment(in string patientID, in string old_appointmentID, in string old_appointmentType, in string new_appointmentID, in string new_appointmentType);
+
+             string fault(in string adminID);
+
+             string crash(in string adminID);
+
+             string general(in string adminID);
+
+    };
+};

@@ -1,0 +1,2 @@
+10-02-2022 14:13:14 : book Appointment : Physician-SHEA100222 : Appointment booked for Physician for 10/02
+10-02-2022 14:13:33 : book Appointment : Physician-SHEA100222 : You have already booked appointment with this type and appointmentID!!

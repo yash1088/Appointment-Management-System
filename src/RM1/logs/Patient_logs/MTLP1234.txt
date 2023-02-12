@@ -1,0 +1,23 @@
+10-02-2022 02:22:14 : book Appointment : Physician-MTLA030222 : You have already booked appointment with this type and appointmentID!!
+10-02-2022 02:26:18 : book Appointment : Physician-QUEE020222 : You have already booked appointment for Physician  for 02/02
+10-02-2022 02:28:35 : book Appointment : Dental-QUEA020222 : No Appointment available for this Type and with this appointmentID!!!
+10-02-2022 02:28:54 : book Appointment : Dental-QUEE020222 : Appointment booked for Dental for 02/02
+10-02-2022 14:38:56 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : SHEA020222
+11-02-2022 20:23:17 : BOOK APPOINTMENT : Physician-SHEM020222 : Appointment booked for Physician for 02/02
+11-02-2022 20:23:50 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222Physician : SHEA020222,Physician : SHEM020222
+11-02-2022 20:28:05 : BOOK APPOINTMENT : Physician-SHEA020222 : You have already booked appointment for Physician  for 02/02
+11-02-2022 20:33:23 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222Physician : SHEA020222
+11-02-2022 20:39:59 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222Physician : SHEA020222
+11-02-2022 20:45:25 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222Physician : SHEA020222
+11-02-2022 20:47:31 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222,Physician : SHEA020222,
+11-02-2022 20:48:29 : BOOK APPOINTMENT : Physician-SHEM020222 : You have already booked appointment for Physician  for 02/02
+11-02-2022 20:52:14 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222,Physician : SHEA020222,
+11-02-2022 20:53:31 : BOOK APPOINTMENT : Physician-MTLM250222 : Appointment booked for Physician for 25/02
+11-02-2022 21:01:16 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222,Physician : SHEA020222,
+11-02-2022 21:02:19 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222Physician : SHEA020222
+11-02-2022 21:03:46 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222Physician : SHEA020222
+11-02-2022 21:16:27 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222,Physician : SHEA020222,
+11-02-2022 21:17:17 : BOOK APPOINTMENT : Physician-SHEM020222 : You have already booked appointment for Physician  for 02/02
+11-02-2022 21:51:28 : GET SCHEDULE : MTLP1234 : Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222,Physician : SHEA020222,
+11-02-2022 21:51:53 : CANCEL APPOINTMENT : MTLM020222-MTLP1234 : Appointment canceled!!!
+11-02-2022 21:52:01 : GET SCHEDULE : MTLP1234 : Physician : MTLA020222,Dental : MTLE020222,Physician : QUEM020222,Physician : QUEA020222,Physician : SHEA020222,

@@ -1,0 +1,6 @@
+10-02-2022 14:13:47 : book Appointment : Physician-SHEA100222 : Appointment booked for Physician for 10/02
+11-02-2022 21:25:18 : BOOK APPOINTMENT : Physician-MTLE250222 : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:30:43 : BOOK APPOINTMENT : Physician-MTLE250222 : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:31:11 : BOOK APPOINTMENT : Physician-MTLE250222 : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:32:58 : BOOK APPOINTMENT : Physician-MTLE250222 : No Appointment available for this Type and with this appointmentID!!!
+11-02-2022 21:36:19 : BOOK APPOINTMENT : Physician-MTLE250222 : Appointment booked for Physician for 25/02

@@ -1,0 +1,15 @@
+04-02-2022 11:10:29 SHE : Cancel Appointment : patient-SHEP1234 : appointment-SHEE020222 : Success
+04-02-2022 11:10:52 SHE : Cancel Appointment : patient-SHEP1234 : appointment-SHEE020222 : Failed : Appointment not found
+04-02-2022 11:13:40 MTL : List Appointment Availability
+10-02-2022 14:13:12 : Sending UDP request to 7778 : gets:SHEP1234 : success : 
+10-02-2022 14:13:14 : Get Appointment Schedule : SHEP1234 : success : Appointment found for the patient SHEP1234
+10-02-2022 14:13:14 : Book Appointment : Physician-SHEA100222-SHEP1234 : success : Appointment booked for Physician for 10/02
+10-02-2022 14:13:33 : Get Appointment Schedule : SHEP1234 : success : Appointment found for the patient SHEP1234
+10-02-2022 14:13:33 : Book Appointment : Physician-SHEA100222-SHEP1234 : failed : You have already booked appointment with this type and appointmentID!!
+10-02-2022 14:14:40 : Sending UDP request to 7778 : list:Physician : success : QUEM020222 : 1
+10-02-2022 14:14:40 : Sending UDP request to 7780 : list:Physician : success : MTLA030222 : 9
+MTLM020222 : 1
+MTLE040222 : 10
+10-02-2022 14:14:42 : List Available Appointment : Physician : success : data found
+10-02-2022 14:17:48 : Sending UDP request to 7778 : list:Physician : success : QUEM020222 : 1
+10-02-2022 14:17:50 : List Available Appointment : Physician : success : data found

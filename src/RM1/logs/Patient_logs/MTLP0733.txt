@@ -1,0 +1,1 @@
+10-02-2022 02:22:59 : get schedule : MTLP0733 : ====================,Appointment of patient MTLP0733,====================,Physician : MTLM020222,Physician : MTLA020222,Dental : MTLE020222,

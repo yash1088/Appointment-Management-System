@@ -1,0 +1,133 @@
+DATE: 2022-03-30 02:16:03 PM  login attempt
+DATE: 2022-03-30 02:16:03 PM  Manager Login successful
+DATE: 2022-03-30 02:16:18 PM  attempting to addEvent
+DATE: 2022-03-30 02:16:43 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 02:17:51 PM  login attempt
+DATE: 2022-03-30 02:17:51 PM  Manager Login successful
+DATE: 2022-03-30 02:18:02 PM  attempting to addEvent
+DATE: 2022-03-30 02:19:07 PM  login attempt
+DATE: 2022-03-30 02:19:07 PM  Manager Login successful
+DATE: 2022-03-30 02:19:23 PM  attempting to addEvent
+DATE: 2022-03-30 02:19:45 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 2  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 02:20:42 PM  login attempt
+DATE: 2022-03-30 02:20:42 PM  Manager Login successful
+DATE: 2022-03-30 02:21:05 PM  login attempt
+DATE: 2022-03-30 02:21:05 PM  Manager Login successful
+DATE: 2022-03-30 02:21:14 PM  attempting to addEvent
+DATE: 2022-03-30 02:24:16 PM  login attempt
+DATE: 2022-03-30 02:24:16 PM  Manager Login successful
+DATE: 2022-03-30 02:24:25 PM  attempting to addEvent
+DATE: 2022-03-30 02:25:42 PM  login attempt
+DATE: 2022-03-30 02:25:42 PM  Manager Login successful
+DATE: 2022-03-30 02:25:53 PM  attempting to addEvent
+DATE: 2022-03-30 02:26:15 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 1  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 03:01:30 PM  login attempt
+DATE: 2022-03-30 03:01:30 PM  Manager Login successful
+DATE: 2022-03-30 03:01:41 PM  attempting to addEvent
+DATE: 2022-03-30 03:02:03 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 1  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 03:35:29 PM  login attempt
+DATE: 2022-03-30 03:35:29 PM  Manager Login successful
+DATE: 2022-03-30 03:35:38 PM  attempting to addEvent
+DATE: 2022-03-30 03:39:21 PM  login attempt
+DATE: 2022-03-30 03:39:21 PM  Manager Login successful
+DATE: 2022-03-30 03:39:29 PM  attempting to addEvent
+DATE: 2022-03-30 03:40:36 PM  login attempt
+DATE: 2022-03-30 03:40:36 PM  Manager Login successful
+DATE: 2022-03-30 03:40:43 PM  attempting to addEvent
+DATE: 2022-03-30 03:41:40 PM  login attempt
+DATE: 2022-03-30 03:41:40 PM  Manager Login successful
+DATE: 2022-03-30 03:41:56 PM  attempting to addEvent
+DATE: 2022-03-30 03:43:54 PM  login attempt
+DATE: 2022-03-30 03:43:54 PM  Manager Login successful
+DATE: 2022-03-30 03:44:02 PM  attempting to addEvent
+DATE: 2022-03-30 03:45:01 PM  login attempt
+DATE: 2022-03-30 03:45:01 PM  Manager Login successful
+DATE: 2022-03-30 03:45:10 PM  attempting to addEvent
+DATE: 2022-03-30 03:48:52 PM  login attempt
+DATE: 2022-03-30 03:48:52 PM  Manager Login successful
+DATE: 2022-03-30 03:48:59 PM  attempting to addEvent
+DATE: 2022-03-30 03:50:13 PM  login attempt
+DATE: 2022-03-30 03:50:13 PM  Manager Login successful
+DATE: 2022-03-30 03:50:21 PM  attempting to addEvent
+DATE: 2022-03-30 03:52:27 PM  login attempt
+DATE: 2022-03-30 03:52:27 PM  Manager Login successful
+DATE: 2022-03-30 03:52:34 PM  attempting to addEvent
+DATE: 2022-03-30 03:56:18 PM  login attempt
+DATE: 2022-03-30 03:56:18 PM  Manager Login successful
+DATE: 2022-03-30 03:56:27 PM  attempting to addEvent
+DATE: 2022-03-30 03:59:23 PM  login attempt
+DATE: 2022-03-30 03:59:23 PM  Manager Login successful
+DATE: 2022-03-30 03:59:32 PM  attempting to addEvent
+DATE: 2022-03-30 04:02:33 PM  login attempt
+DATE: 2022-03-30 04:02:33 PM  Manager Login successful
+DATE: 2022-03-30 04:02:41 PM  attempting to addEvent
+DATE: 2022-03-30 04:03:01 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 1  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 04:09:45 PM  login attempt
+DATE: 2022-03-30 04:09:45 PM  Manager Login successful
+DATE: 2022-03-30 04:09:56 PM  attempting to addEvent
+DATE: 2022-03-30 04:10:17 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 1  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 04:17:07 PM  login attempt
+DATE: 2022-03-30 04:17:07 PM  Manager Login successful
+DATE: 2022-03-30 04:17:41 PM  attempting to addEvent
+DATE: 2022-03-30 04:18:01 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 06:22:26 PM  login attempt
+DATE: 2022-03-30 06:22:26 PM  Manager Login successful
+DATE: 2022-03-30 06:22:41 PM  attempting to addEvent
+DATE: 2022-03-30 06:23:01 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 06:37:43 PM  login attempt
+DATE: 2022-03-30 06:37:43 PM  Manager Login successful
+DATE: 2022-03-30 06:37:58 PM  login attempt
+DATE: 2022-03-30 06:37:58 PM  Manager Login successful
+DATE: 2022-03-30 06:38:05 PM  attempting to addEvent
+DATE: 2022-03-30 06:38:25 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 07:13:52 PM  login attempt
+DATE: 2022-03-30 07:13:52 PM  Manager Login successful
+DATE: 2022-03-30 07:14:11 PM  attempting to addEvent
+DATE: 2022-03-30 07:14:31 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 07:41:00 PM  attempting to removeEvent
+DATE: 2022-03-30 07:41:20 PM Client Action:  removeEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 07:54:21 PM  login attempt
+DATE: 2022-03-30 07:54:21 PM  Manager Login successful
+DATE: 2022-03-30 07:54:30 PM  attempting to addEvent
+DATE: 2022-03-30 07:54:50 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Fail: No response from any server
+DATE: 2022-04-05 07:37:42 PM  login attempt
+DATE: 2022-04-05 07:37:42 PM  Manager Login successful
+DATE: 2022-04-05 07:38:19 PM  attempting to addEvent
+DATE: 2022-04-05 07:39:02 PM  login attempt
+DATE: 2022-04-05 07:39:02 PM  Manager Login successful
+DATE: 2022-04-05 07:40:13 PM  login attempt
+DATE: 2022-04-05 07:40:13 PM  Manager Login successful
+DATE: 2022-04-05 07:40:21 PM  attempting to addEvent
+DATE: 2022-04-05 07:40:41 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Fail: No response from any server
+DATE: 2022-04-05 07:50:22 PM  login attempt
+DATE: 2022-04-05 07:50:22 PM  Manager Login successful
+DATE: 2022-04-05 07:51:04 PM  login attempt
+DATE: 2022-04-05 07:51:04 PM  Manager Login successful
+DATE: 2022-04-05 09:13:15 PM  login attempt
+DATE: 2022-04-05 09:13:15 PM  Manager Login successful
+DATE: 2022-04-05 09:13:24 PM  attempting to addEvent
+DATE: 2022-04-05 09:13:34 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Success:addEvent > Event added successfully
+DATE: 2022-04-05 09:19:19 PM  login attempt
+DATE: 2022-04-05 09:19:19 PM  Manager Login successful
+DATE: 2022-04-05 09:19:30 PM  attempting to addEvent
+DATE: 2022-04-05 09:19:50 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Seminars eventCapacity: 10  | Server Response: Fail: No response from any server
+DATE: 2022-04-05 09:58:02 PM  login attempt
+DATE: 2022-04-05 09:58:02 PM  Manager Login successful
+DATE: 2022-04-05 09:58:13 PM  attempting to addEvent
+DATE: 2022-04-05 09:58:23 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Success:addEvent > Event added successfully
+DATE: 2022-04-05 10:00:38 PM  attempting to addEvent
+DATE: 2022-04-05 10:00:58 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Seminars eventCapacity: 20  | Server Response: Fail: No response from any server
+DATE: 2022-04-05 11:42:39 PM  login attempt
+DATE: 2022-04-05 11:42:39 PM  Manager Login successful
+DATE: 2022-04-05 11:43:23 PM  login attempt
+DATE: 2022-04-05 11:43:23 PM  Manager Login successful
+DATE: 2022-04-05 11:44:04 PM  login attempt
+DATE: 2022-04-05 11:44:04 PM  Manager Login successful
+DATE: 2022-04-05 11:46:01 PM  login attempt
+DATE: 2022-04-05 11:46:01 PM  Manager Login successful
+DATE: 2022-04-05 11:46:12 PM  attempting to addEvent
+DATE: 2022-04-05 11:46:32 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 12  | Server Response: Fail: No response from any server
+DATE: 2022-04-05 11:54:16 PM  login attempt
+DATE: 2022-04-05 11:54:16 PM  Manager Login successful
+DATE: 2022-04-05 11:54:36 PM  attempting to addEvent
+DATE: 2022-04-05 11:54:56 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Fail: No response from any server

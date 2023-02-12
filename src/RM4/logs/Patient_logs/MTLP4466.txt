@@ -1,0 +1,2 @@
+14-02-2022 12:09:57 : BOOK APPOINTMENT : Physician-MTLA030222 : Appointment booked for Physician for 03/02
+14-02-2022 12:10:13 : GET SCHEDULE : MTLP4466 : Physician : MTLA030222,

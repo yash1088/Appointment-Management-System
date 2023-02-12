@@ -1,0 +1,28 @@
+DATE: 2022-03-30 02:02:17 PM  login attempt
+DATE: 2022-03-30 02:02:17 PM  Customer Login successful
+DATE: 2022-03-30 02:14:27 PM  login attempt
+DATE: 2022-03-30 02:14:27 PM  Customer Login successful
+DATE: 2022-03-30 02:14:40 PM  attempting to bookEvent
+DATE: 2022-03-30 02:15:02 PM Client Action:  bookEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences  | Server Response: Fail: No response from any server
+DATE: 2022-03-30 03:59:03 PM  login attempt
+DATE: 2022-03-30 03:59:03 PM  Customer Login successful
+DATE: 2022-04-05 07:15:02 PM  login attempt
+DATE: 2022-04-05 07:15:02 PM  Customer Login successful
+DATE: 2022-04-05 07:15:13 PM  attempting to bookEvent
+DATE: 2022-04-05 07:15:33 PM Client Action:  bookEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences  | Server Response: Fail: No response from any server
+DATE: 2022-04-05 07:28:05 PM  login attempt
+DATE: 2022-04-05 07:28:05 PM  Customer Login successful
+DATE: 2022-04-05 07:28:12 PM  attempting to bookEvent
+DATE: 2022-04-05 07:28:32 PM Client Action:  bookEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences  | Server Response: Fail: No response from any server
+DATE: 2022-04-05 07:31:57 PM  login attempt
+DATE: 2022-04-05 07:31:57 PM  Customer Login successful
+DATE: 2022-04-05 07:32:03 PM  attempting to bookEvent
+DATE: 2022-04-05 07:32:23 PM Client Action:  bookEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences  | Server Response: Fail: No response from any server
+DATE: 2022-04-05 07:37:24 PM  attempting ORB shutdown
+DATE: 2022-04-05 07:37:24 PM  shutdown
+DATE: 2022-04-05 07:51:33 PM  login attempt
+DATE: 2022-04-05 07:51:33 PM  Customer Login successful
+DATE: 2022-04-05 07:52:01 PM  attempting to bookEvent
+DATE: 2022-04-05 07:52:11 PM Client Action:  bookEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences  | Server Response: Fail:bookEvent > No such event
+DATE: 2022-04-05 11:43:03 PM  login attempt
+DATE: 2022-04-05 11:43:03 PM  Customer Login successful

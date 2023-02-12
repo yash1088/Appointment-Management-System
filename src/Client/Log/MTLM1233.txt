@@ -1,0 +1,4 @@
+DATE: 2022-04-06 04:08:15 PM  login attempt
+DATE: 2022-04-06 04:08:15 PM  Manager Login successful
+DATE: 2022-04-06 04:08:23 PM  attempting to addEvent
+DATE: 2022-04-06 04:08:43 PM Client Action:  addEvent | RequestParameters:  eventID: MTLM190120 eventType: Conferences eventCapacity: 10  | Server Response: Fail: No response from any server
