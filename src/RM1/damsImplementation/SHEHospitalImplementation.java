@@ -20,10 +20,6 @@ import java.util.*;
 import java.util.Map.Entry;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author Sumit Monapara
- *
- */
 public class SHEHospitalImplementation extends UnicastRemoteObject implements DamsInterface {
 
 	/**

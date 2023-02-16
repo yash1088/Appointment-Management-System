@@ -20,10 +20,7 @@ import java.util.*;
 import java.util.Map.Entry;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author Sumit Monapara
- *
- */
+
 @SuppressWarnings("serial")
 public class QUEHospitalImplementation extends UnicastRemoteObject implements DamsInterface {
 

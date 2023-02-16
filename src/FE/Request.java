@@ -1,10 +1,7 @@
 package FE;
 import java.io.Serializable;
 import java.util.ArrayList;
-/**
- * @author Pratik Gondaliya
- * @created 30/03/2022
- */
+
 public class Request implements Serializable {
     private String function = "null";
     private String clientID = "null";

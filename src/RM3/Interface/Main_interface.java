@@ -1,10 +1,8 @@
 package RM3.Interface;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
-/**
- * @author Pratik Gondaliya
- * @created 06/04/2022
- */
+
+
 public interface Main_interface extends Remote {
     //public String login_credentials(String str) throws RemoteException;
 

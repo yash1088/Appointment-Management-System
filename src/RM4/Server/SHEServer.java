@@ -8,10 +8,7 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import RM4.damsImplementation.SHE_Impl;
 
-/**
- * @author Krishna
- * @created 2022-04-07/04/2022
- */
+
 public class SHEServer {
     private static RM4.damsImplementation.SHE_Impl SHE_Impl;
 

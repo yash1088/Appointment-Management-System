@@ -5,10 +5,6 @@ package RM1.model;
 
 import java.util.List;
 
-/**
- * @author Sumit Monapara
- *
- */
 public class AptDetails {
 	
 	private List<String> patientID;

@@ -11,10 +11,7 @@ import java.util.concurrent.TimeUnit;
 import RM4.damsInterface.DamsInterface;
 import RM4.model.Mydetails;
 
-/**
- * @author Krishna
- * @created 2022-04-07/04/2022
- */
+
 
     public class SHE_Impl extends UnicastRemoteObject implements DamsInterface {
         public HashMap<String, HashMap<String, Mydetails>> database = null;

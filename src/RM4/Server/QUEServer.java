@@ -8,10 +8,7 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import RM4.damsImplementation.QUE_Impl;
 
-/**
- * @author Krishna
- * @created 2022-04-07/04/2022
- */
+
 public class QUEServer {
     private static RM4.damsImplementation.QUE_Impl QUE_Impl;
 

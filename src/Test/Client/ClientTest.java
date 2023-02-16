@@ -17,10 +17,6 @@ import java.rmi.registry.Registry;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-/**
- * @author Krishna Patel
- * @created 2022-04-07
- */
 
 class ClientTest {
     static FE.SendData.SendData_interface servant;

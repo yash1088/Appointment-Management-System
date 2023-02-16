@@ -18,10 +18,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketException;
 
-/**
- * @author Pratik Gondaliya
- * @created 06/04/2022
- */
+
 
 public class FrontEnd {
     private static final int sequencerPort = 1333;
@@ -162,10 +159,6 @@ public class FrontEnd {
 
 }
 
-/**
- * @author Yash Radadiya
- * @created 02/04/2022
- */
 class Sequencer {
         private int sequencerId = 0;
         private final String sequencerIP = "192.168.2.17";

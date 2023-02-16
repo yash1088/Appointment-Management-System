@@ -1,8 +1,5 @@
 package FE;
-/**
- * @author Pratik Gondaliya
- * @created 30/03/2022
- */
+
 public interface FrontEnd_interface {
     void informRmHasBug(int RmNumber);
 

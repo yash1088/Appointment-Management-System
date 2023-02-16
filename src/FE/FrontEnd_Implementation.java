@@ -10,10 +10,6 @@ import java.util.List;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author Pratik Gondaliya
- * @created 06/04/2022
- */
 
 
 public class FrontEnd_Implementation extends SendData_interfacePOA {

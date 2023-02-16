@@ -9,10 +9,7 @@ import org.omg.CORBA.ORB;
 import org.omg.CosNaming.NamingContextExt;
 import org.omg.CosNaming.NamingContextExtHelper;
 
-/**
- * @author Krishna Patel
- * @created 06/04/2022
- */
+
 
 public class Client {
     static FileWriter writer;

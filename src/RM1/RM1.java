@@ -21,10 +21,7 @@ import java.util.Iterator;
 import java.util.Queue;
 import java.util.concurrent.*;
 
-/**
- * @author Sumit Monapara
- * @created 31/03/2022
- */
+
 
 public class RM1 {
     public static String Bug_ID = "RM1_BUG";

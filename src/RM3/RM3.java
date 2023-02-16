@@ -20,10 +20,7 @@ import java.rmi.registry.Registry;
 import java.util.Iterator;
 import java.util.Queue;
 import java.util.concurrent.*;
-/**
- * @author Sumit Monapara
- * @created 31/03/2022
- */
+
 
 public class RM3 {
     static String host_ip = "";

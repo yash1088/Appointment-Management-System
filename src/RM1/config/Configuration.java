@@ -1,10 +1,6 @@
 
 package RM1.config;
 
-/**
- * @author Sumit Monapara
- *
- */
 public class Configuration {
 	
 	public static final String HOSTNAME = "localhost";

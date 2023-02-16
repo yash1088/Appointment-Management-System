@@ -10,10 +10,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- *
- * @author Prati
- */
+
 public class For_logs {
 
     public static void client_logs(String client_id, String request, String reply) throws IOException {

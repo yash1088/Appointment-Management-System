@@ -8,10 +8,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketException;
 
-/**
- * @author Yash Radadiya
- * @created 02/04/2022
- */
+
 
 public class Sequencer {
 	private static int sequencerId = 0;

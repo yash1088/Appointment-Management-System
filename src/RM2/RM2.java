@@ -25,10 +25,7 @@ import java.util.Queue;
 import java.util.concurrent.*;
 import java.util.function.Function;
 
-/**
- * @author Sumit Monapara
- * @created 31/03/2022
- */
+
 public class RM2 {
     public static String Bug_ID = "RM2_BUG";
     public static int lastSequenceID = 0;
